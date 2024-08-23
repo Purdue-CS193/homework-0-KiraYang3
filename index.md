@@ -1,6 +1,6 @@
-### **Kira Yang's First CS193 Homework**
+# **Kira Yang's First CS193 Homework**
 
-# My Favorite Things About CS 19300:
+### My Favorite Things About CS 19300:
 - Taught by students who have experienced/understand what we're currently going through
 - Once a week lectures + an optional virtual PSO session
 - The powerpoint theme was colorful and had fun images
